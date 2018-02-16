@@ -1,6 +1,6 @@
 # Word Analyzer stemmer PoC
 
-This is a basic PoC in order to test the snowball library for for natural language processing.
+This is a basic PoC in order to test the snowball library for natural language processing.
 
 ## How to install
 
